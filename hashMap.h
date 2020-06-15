@@ -2,7 +2,8 @@
 #define HASH_MAP_H
 
 /*
- * CS 261 Data Structures
+ * CS 261 Data Structures || Oregon State University
+ * Provided by Course CS261
  * HashMap Implementation
  */
 
