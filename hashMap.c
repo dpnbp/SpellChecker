@@ -1,5 +1,6 @@
 /*
- * CS 261 Data Structures
+ * CS 261 Data Structures || Oregon State University
+ * Skeleton provided by CS261 Oregon State University
  * HashMap Implementation
  * Name: Dipan Patel (pateldip@oregonstate.edu)
  * Date: 2020 Mar. 7
